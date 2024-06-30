@@ -2,12 +2,12 @@
 -  Solo game developer and obscure music label
 
 - Links
-  ITCH.IO - viciousacts.itch.io
-  Bandcamp - viciousacts.bandcamp.com
+ITCH.IO - viciousacts.itch.io
+Bandcamp - viciousacts.bandcamp.com
 
 
 - Email:
-  vicious_acts@proton.me
+vicious_acts@proton.me
 
 - I identify myself as an armchair
 
