@@ -1,5 +1,4 @@
-
-![VA_logo_wide](https://github.com/ViciousActs/ViciousActs/assets/173949839/db223d7c-c4df-4625-9915-249f29829428)
+![VA_logo_banner](https://github.com/ViciousActs/ViciousActs/assets/173949839/d0e99641-dbab-4a02-9f27-2323e5468e07)
 
 # @ViciousActs
 Solo game developer and obscure music label
